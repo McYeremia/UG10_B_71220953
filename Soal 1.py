@@ -44,4 +44,4 @@ elif pilihan == "4":
     phi = 3.14
     jker = float(input("Masukkan jari-jari kerucut: "))
     tker = float(input("Masukkan tinggi kerucut: "))
-    print ("Volume kerucut tersebut adalah", 1/3 * phi * jker * jker *tker)
+    print ("Volume kerucut tersebut adalah", 1/3 * phi * jker * jker * tker)
